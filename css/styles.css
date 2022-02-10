@@ -78,15 +78,15 @@ table {
 }
 .profile{
   margin-top: 0px;
-  background-color: #FF895D;
+  background-color: #7DD076;
   padding-bottom: 100px;
   padding-top: 50px;
 }
 .skills{
-  background-color: #FB3569;
+  background-color: #FF895D;
   margin-top: 0;
   padding-bottom: 50px;
-}
+} /* FB3569*/
 .skill-row{
   width: 50%;
   margin: 0 auto 0 auto;
